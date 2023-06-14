@@ -15,8 +15,7 @@
 <p class="has-line-data" data-line-start="1" data-line-end="2">Aplikasi Super Apps Len-Telko yang didesain bertujuan untuk mempermudah kehidupan pekerja. Selain itu, tentu dengan adanya aplikasi ini dapat membuat karyawan menjadi lebih menghemat waktu dan mengerjakan pekerjaan lebih efektif.</p>
 <p>Dengan adanya aplikasi yang sudah terintegrasi dengan baik, maka pengelolaan sumber daya manusianya pun juga akan lebih praktis daripada menggunakan cara manual.Sehingga, inilah beberapa manfaat atau fungsi secara detail yang di dapatkan atau rasakan ketika menggunakan  aplikasi Super Apps Len-Telko.</p>
 
-  <pre><code class="has-line-data" data-line-start="0" data-line-end="0" class="language-sh"> 
-💠 Mengerjakan tugas laporan dan historynya
+ <pre><code class="has-line-data" data-line-start="0" data-line-end="0" class="language-sh">💠 Mengerjakan tugas laporan dan historynya
 💠 Berisi Informasi atau Biodata setiap karyawan
 💠 Digunakan untuk absensi karyawan
 💠 Monitoring laporan pekerjaan karyawan tersebut dengan atasan maupun antar divisi
@@ -27,16 +26,22 @@
 </code></pre>
 
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="Available_25"></a>Manfaat Aplikasi bagi Perusahaan</h2>
-<p class="has-line-data" data-line-start="26" data-line-end="27">Ada beberapa manfaat atau fungsi yang bisa dirasakan jika Anda pada posisi perusahaan alias pekerja yang berhubungan dengan tanggung jawab sumber daya manusia dalam perusahaan tersebut.</p>
+<p class="has-line-data" data-line-start="26" data-line-end="27">Ada beberapa manfaat atau fungsi yang bisa dirasakan jika Anda pada posisi perusahaan alias pekerja yang berhubungan dengan tanggung jawab sumber daya manusia dalam perusahaan.</p>
 <ul>
-<li class="has-line-data" data-line-start="27" data-line-end="28">MacOS</li>
-<li class="has-line-data" data-line-start="28" data-line-end="29">Windows</li>
-<li class="has-line-data" data-line-start="29" data-line-end="30">Linux</li>
-<li class="has-line-data" data-line-start="30" data-line-end="31">Android</li>
+<h4><li class="has-line-data" data-line-start="27" data-line-end="28">Pengelolaan dan Penyusunan yang Mudah</li></h4>
+  <p>Fungsi pertama yang bisa perusahaan rasakan yaitu pengelolaan yang mudah. Pengelolaan dan penyusunan data karyawan yang mudah, mulai dari pengelolaan pencatatan kehadiran atau absensi, penggajian, pengelolaan cuti, proses perekrutan, serta evaluasi kinerja karyawan.</p>
+  <p>aplikasi tersebut bisa juga dalam bentuk software atau aplikasi yang ramah pengguna dan dilengkapi dengan berbagai fitur canggih yang memberikan manfaat berlimpah.</p>
+<h4><li class="has-line-data" data-line-start="28" data-line-end="29">Direct Report Kehadiran Karyawan </li></h4>
+  <p>Selain memberikan manfaat dan fungsi terhadap pengelolaan dan penyusunan data karyawan yang lebih mudah, selanjutnya bisa juga bermanfaat untuk direct report kehadiran karyawan.</p>
+  <p>Artinya, Anda yang mempunyai peran di perusahaan dapat memantau secara real-time kehadiran karyawan perusahaan melalui dashboard yang selalu dapat diperbarui.Selain itu, dengan adanya aplikasi ini juga berfungsi untuk lebih meningkatkan keamanan dan kerahasian data karyawan.Karena dengan adanya sistem komputasi awan atau cloud, maka perusahaan memungkinkan menyimpan data karyawannya pada database dengan aman.</p>
+<h4><li class="has-line-data" data-line-start="29" data-line-end="30">Kemudahan Dokumentasi secara Lengkap</li></h4>
+  <p>Fungsi lain yang bisa Anda dapatkan dari penggunaan aplikasi Super Apps Len-Telko yaitu kemudahan Dokumentasi secara lengkap kehadiran karyawan.Di mana ini selalu ada kaitannya dengan perolehan laporan detail status kehadiran karyawan pada suatu perusahaan seperti cuti, keterlambatan, over time, break in dan keadaan lainnya.</p>
+<h4><li class="has-line-data" data-line-start="29" data-line-end="30">Menghemat Biaya Operasional Perusahaan</li></h4>
+  <p>Manfaat terakhir yang bisa dirasakan oleh perusahaan yaitu menghemat biaya operasional perusahaan.</p>
+  <p>Dapat digambarkan seperti contoh seorang HR yang mempunyai tanggung jawab dalam bidang ini akan memangkas atau memotong aplikasi lain yang tidak mempunyai efisiensi ditambah adanya pengurangan penggunaan kertas atau formulir pencatatan kehadiran karyawannya.</p>
   
-<h2 class="" data-line-start=15 data-line-end=16 ><a id="features_aplikasi_15"></a>features aplikasi</h2>
-<code><ul>
-🌀 Approval
+<h2 class="" data-line-start=15 data-line-end=16 ><a id="features_aplikasi_15"></a>Features aplikasi</h2>
+<pre><code class="has-line-data" data-line-start="0" data-line-end="0" class="language-sh">🌀 Approval
 🌀 Biodata
 🌀 Absensi
 🌀 Manajemen Surat
@@ -44,7 +49,7 @@
 🌀 Manajemen Aset
 🌀 Resources
 🌀 User Account
-</ul></code>
+</code></pre>
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="Available_25"></a>Available</h2>
 <p class="has-line-data" data-line-start="26" data-line-end="27">Aplikasi ini dapat di gunakan di beberagai Operating system, seperti :</p>
 <ul>
@@ -276,4 +281,4 @@ jika anda ingin terhubung dengan github saya, anda bisa mengaksesnya melalui :</
 <h2 class="code-line" data-line-start=170 data-line-end=171 ><a id="License_170"></a>License</h2>
 <p class="has-line-data" data-line-start="172" data-line-end="173">MIT</p>
 </code></pre>
-<p class="has-line-data" data-line-start="122" data-line-end="123"><em>Free Software, Hell Yeah!</em></p>
+<a href="https://shields.io/"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Generic badge"></a>
