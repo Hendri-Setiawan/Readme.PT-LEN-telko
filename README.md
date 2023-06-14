@@ -12,9 +12,8 @@
 
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Aplikasi_Super_Apps_LenTelko_0"></a>🚀 Aplikasi Super Apps Len-Telko</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2"></p>
-<p class="has-line-data" data-line-start="1" data-line-end="2">aplikasi sistem pendukung yang di buat untuk memudahkan  karyawan perusahaan PT Len Telekomunikasi Indonesia dalam mengakses pekerjaan melalui ponsel maupun perangkat kerja yang ada seperti laptop.</p>
-<h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="Deskripsi_aplikasi_3"></a>Deskripsi aplikasi</h2>
-<p class="has-line-data" data-line-start="5" data-line-end="6">Sitem aplikasi Super Apps Len-Telko dibuat dengan bertujuan agar memudahkan karyawan dalam ruang lingkup kerja dalam suatu perusahaan. Berikut beberapa deskripsi kegunaan aplikasi PWA ini:</p>
+<p class="has-line-data" data-line-start="1" data-line-end="2">Aplikasi Super Apps Len-Telko yang didesain bertujuan untuk mempermudah kehidupan pekerja. Selain itu, tentu dengan adanya aplikasi ini dapat membuat karyawan menjadi lebih menghemat waktu dan mengerjakan pekerjaan lebih efektif.</p>
+<p>Dengan adanya aplikasi yang sudah terintegrasi dengan baik, maka pengelolaan sumber daya manusianya pun juga akan lebih praktis daripada menggunakan cara manual.Sehingga, inilah beberapa manfaat atau fungsi secara detail yang di dapatkan atau rasakan ketika menggunakan  aplikasi Super Apps Len-Telko.</p>
 
   <pre><code class="has-line-data" data-line-start="0" data-line-end="0" class="language-sh"> 
 💠 Mengerjakan tugas laporan dan historynya
@@ -26,6 +25,14 @@
 💠 Mencakup informasi tentang perusahaan dan dokmentasi-dokumentasi yang ada di perusahaan.
 💠 Terdapat user account, untuk mengontrol akun dari segi pengguna/user (karyawan).
 </code></pre>
+
+<h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="Available_25"></a>Manfaat Aplikasi bagi Perusahaan</h2>
+<p class="has-line-data" data-line-start="26" data-line-end="27">Ada beberapa manfaat atau fungsi yang bisa dirasakan jika Anda pada posisi perusahaan alias pekerja yang berhubungan dengan tanggung jawab sumber daya manusia dalam perusahaan tersebut.</p>
+<ul>
+<li class="has-line-data" data-line-start="27" data-line-end="28">MacOS</li>
+<li class="has-line-data" data-line-start="28" data-line-end="29">Windows</li>
+<li class="has-line-data" data-line-start="29" data-line-end="30">Linux</li>
+<li class="has-line-data" data-line-start="30" data-line-end="31">Android</li>
   
 <h2 class="" data-line-start=15 data-line-end=16 ><a id="features_aplikasi_15"></a>features aplikasi</h2>
 <code><ul>
