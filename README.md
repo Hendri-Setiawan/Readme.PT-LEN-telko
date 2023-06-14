@@ -4,7 +4,7 @@
 <a href="https://trial.len-telko.co.id/"><img src="https://img.shields.io/badge/status-up-brightgreen" alt="Build Status"></a>
 <a href="https://visualstudio.microsoft.com"><img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&amp;label" alt="Visual Studio"></a>
 <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity"><img src="https://img.shields.io/badge/contributors-2-green.svg" alt="Maintenance"></a> 
-<a href="https://shields.io/"><img src="https://img.shields.io/badge/build-Pesaing-%3CCOLOR%3E.svg" alt="Generic badge"></a> <img src="https://img.shields.io/badge/UserActive-150-blue" alt="Maintainer"></a>
+<a href="https://shields.io/"><img src="https://img.shields.io/badge/build-upgradeable-%3CCOLOR%3E.svg" alt="Generic badge"></a> <img src="https://img.shields.io/badge/UserActive-150-blue" alt="Maintainer"></a>
 <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license"></a>
 <a href="https://github.com"><img src="https://badgen.net/badge/icon/github?icon=github&amp;label" alt="GitHub"></a>
 <a href="https://shields.io/"><img src="https://img.shields.io/badge/lastcommits-3years-%3CCOLOR%3E.svg" alt="Generic badge"></a> <a href="https://bitbucket.org/lbesson/ansi-colors"><img src="https://img.shields.io/badge/codeigniter-3-red.svg" alt="Maintenance"></a></p>
