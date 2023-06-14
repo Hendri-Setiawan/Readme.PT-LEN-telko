@@ -12,50 +12,32 @@
 
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Aplikasi_Super_Apps_LenTelko_0"></a>🚀 Aplikasi Super Apps Len-Telko</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2"></p>
-
-<h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="features_aplikasi_5"></a>features aplikasi</h1>
-<ul>
-
-
-##  About Me
-aplikasi sistem pendukung yang di buat untuk memudahkan  karyawan perusahaan PT Len Telekomunikasi Indonesia dalam mengakses pekerjaan melalui ponsel maupun perangkat kerja yang ada seperti laptop.:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-  
-  <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Aplikasi_Super_Apps_LenTelko_0"></a>Aplikasi Super Apps Len-Telko</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">aplikasi sistem pendukung yang di buat untuk memudahkan  karyawan perusahaan PT Len Telekomunikasi Indonesia dalam mengakses pekerjaan melalui ponsel maupun perangkat kerja yang ada seperti laptop.</p>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="Deskripsi_aplikasi_3"></a>Deskripsi aplikasi</h2>
 <p class="has-line-data" data-line-start="5" data-line-end="6">Sitem aplikasi Super Apps Len-Telko dibuat dengan bertujuan agar memudahkan karyawan dalam ruang lingkup kerja dalam suatu perusahaan. Berikut beberapa deskripsi kegunaan aplikasi PWA ini:</p>
-<ol>
-<li class="has-line-data" data-line-start="6" data-line-end="7">Mengerjakan tugas laporan dan historynya</li>
-<li class="has-line-data" data-line-start="7" data-line-end="8">Berisi Informasi atau Biodata setiap karyawan</li>
-<li class="has-line-data" data-line-start="8" data-line-end="9">Digunakan untuk absensi karyawan</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">Monitoring laporan pekerjaan karyawan tersebut dengan atasan maupun antar divisi</li>
-<li class="has-line-data" data-line-start="10" data-line-end="11">Memanajemen dokumen surat-surat perusahaan</li>
-<li class="has-line-data" data-line-start="11" data-line-end="12">Memanajemen menggunakan metode(create, upload, delete) serta monitoring Aset dan resiko pada perusahaan</li>
-<li class="has-line-data" data-line-start="12" data-line-end="13">Mencakup informasi tentang perusahaan dan dokmentasi-dokumentasi yang ada di perusahaan.</li>
-<li class="has-line-data" data-line-start="13" data-line-end="15">Terdapat user account, untuk mengontrol akun dari segi pengguna/user (karyawan).</li>
-</ol>
-<h2 class="code-line" data-line-start=15 data-line-end=16 ><a id="features_aplikasi_15"></a>features aplikasi</h2>
-<ul>
-<li class="has-line-data" data-line-start="16" data-line-end="17">Approval</li>
-<li class="has-line-data" data-line-start="17" data-line-end="18">Biodata</li>
-<li class="has-line-data" data-line-start="18" data-line-end="19">Absensi</li>
-<li class="has-line-data" data-line-start="19" data-line-end="20">Manajemen Surat</li>
-<li class="has-line-data" data-line-start="20" data-line-end="21">SDM &amp;</li>
-<li class="has-line-data" data-line-start="21" data-line-end="22">Manajemen Aset &amp; resiko</li>
-<li class="has-line-data" data-line-start="22" data-line-end="23">Resources</li>
-<li class="has-line-data" data-line-start="23" data-line-end="25">User Account</li>
-</ul>
+
+  <pre><code class="has-line-data" data-line-start="0" data-line-end="0" class="language-sh"> 
+💠 Mengerjakan tugas laporan dan historynya
+💠 Berisi Informasi atau Biodata setiap karyawan
+💠 Digunakan untuk absensi karyawan
+💠 Monitoring laporan pekerjaan karyawan tersebut dengan atasan maupun antar divisi
+💠 Memanajemen dokumen surat-surat perusahaan
+💠 Memanajemen menggunakan metode(create, upload, delete) serta monitoring Aset dan resiko pada perusahaan
+💠 Mencakup informasi tentang perusahaan dan dokmentasi-dokumentasi yang ada di perusahaan.
+💠 Terdapat user account, untuk mengontrol akun dari segi pengguna/user (karyawan).
+</code></pre>
+  
+<h2 class="" data-line-start=15 data-line-end=16 ><a id="features_aplikasi_15"></a>features aplikasi</h2>
+<code><ul>
+🌀 Approval
+🌀 Biodata
+🌀 Absensi
+🌀 Manajemen Surat
+🌀 SDM
+🌀 Manajemen Aset
+🌀 Resources
+🌀 User Account
+</ul></code>
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="Available_25"></a>Available</h2>
 <p class="has-line-data" data-line-start="26" data-line-end="27">Aplikasi ini dapat di gunakan di beberagai Operating system, seperti :</p>
 <ul>
@@ -271,20 +253,20 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 </tr>
 </tbody>
 </table>
-<h2 class="code-line" data-line-start=98 data-line-end=99 ><a id="Development_98"></a>Development</h2>
-<p class="has-line-data" data-line-start="100" data-line-end="104">Aplikasi ini masih dalam pengembangan, dan bersifat private. jadi source code dari trial supper apps len telko ini tidak di publikasikan oleh khalayak luas.<br>
-untuk mencoba interface trial dari supper apps len telko, anda bisa mengaksesnya melalui :<br>
-sh<br>
-<a href="http://trial.len-telko.co.id">trial.len-telko.co.id</a></p>
-<p class="has-line-data" data-line-start="105" data-line-end="106">attention : “interface ini tidak di perkenankan di plagiasi ataupun di sebar luaskan, terimakasih!”&quot;</p>
-<h4 class="code-line" data-line-start=107 data-line-end=108 ><a id="Informasi_Aplikasi_Supper_Apps_LenTelko_107"></a>Informasi Aplikasi Supper Apps Len-Telko</h4>
-<p class="has-line-data" data-line-start="109" data-line-end="110">For production release:</p>
-<p class="has-line-data" data-line-start="111" data-line-end="113">sh<br>
-<a href="http://Len-telko.co.id">Len-telko.co.id</a></p>
-<p class="has-line-data" data-line-start="114" data-line-end="115">Pembuat :</p>
-<p class="has-line-data" data-line-start="116" data-line-end="118">sh<br>
-@HisyamBSA</p>
-<h2 class="code-line" data-line-start=120 data-line-end=121 ><a id="License_120"></a>License</h2>
-<p class="has-line-data" data-line-start="122" data-line-end="123">MIT</p>
-<p class="has-line-data" data-line-start="124" data-line-end="125"><em>....</em></p>
-  
+<h2 class="code-line" data-line-start=146 data-line-end=147 ><a id="Development_146"></a>👨🏻‍💻 Development</h2>
+<p class="has-line-data" data-line-start="148" data-line-end="150">Aplikasi ini masih dalam pengembangan, dan bersifat private. jadi source code dari trial supper apps len telko ini tidak di publikasikan oleh khalayak luas.<br>
+jika anda ingin terhubung dengan github saya, anda bisa mengaksesnya melalui :</p>
+<pre><code class="has-line-data" data-line-start="151" data-line-end="153" class="language-sh">https://github.com/hisyambsa
+</code></pre>
+<p class="has-line-data" data-line-start="153" data-line-end="154">attention : “interface ini tidak di perkenankan di plagiasi ataupun di sebar luaskan, terimakasih!”&quot;</p>
+<h3 class="code-line" data-line-start=156 data-line-end=157 ><a id="Informasi_Aplikasi_Supper_Apps_LenTelko_156"></a>🔍 Informasi Aplikasi Supper Apps Len-Telko</h3>
+<p class="has-line-data" data-line-start="158" data-line-end="159">produksi rilis untuk:</p>
+<pre><code class="has-line-data" data-line-start="161" data-line-end="163" class="language-sh">Len-telko.co.id
+</code></pre>
+<p class="has-line-data" data-line-start="163" data-line-end="164">Pembuat atau pengembang aplikasi :</p>
+<pre><code class="has-line-data" data-line-start="166" data-line-end="168" class="language-sh">@HisyamBSA
+</code></pre>
+<h2 class="code-line" data-line-start=170 data-line-end=171 ><a id="License_170"></a>License</h2>
+<p class="has-line-data" data-line-start="172" data-line-end="173">MIT</p>
+</code></pre>
+<p class="has-line-data" data-line-start="122" data-line-end="123"><em>Free Software, Hell Yeah!</em></p>
